@@ -98,16 +98,11 @@ Attribute Information:
     * Removing Multicollinearity from the dataset.
 
 ![github](https://github.com/anasmalik081/Bike-Sharing-Demand-Prediction-Capstone-Project/assets/84465546/4fe4936d-6f41-406c-ad75-424df80d440b)
-**
-For further information you can check the google colab file added in the repository.
 
-If you find any mistakes or have any suggestions for me, please reach out to me, all the criticism is heartly welcomed.
+**For further information you can check the google colab file added in the repository.**
+**If you find any mistakes or have any suggestions for me, please reach out to me, all the criticism is heartly welcomed.**
+**You can also reach out to me for project collaborations.**
+**My Email Id - anasmalik081@gmail.com**
+**My LinkedIn profile - [Profile](https://www.linkedin.com/in/anas-malik-01/)**
 
-You can also reach out to me for project collaborations.
-
-My Email Id - anasmalik081@gmail.com
-
-My LinkedIn profile - [Profile](https://www.linkedin.com/in/anas-malik-01/)
-
-Thankyou for tagging along to the end.
-**
+### Thankyou for tagging along to the end.
