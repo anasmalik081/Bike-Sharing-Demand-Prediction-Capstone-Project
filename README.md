@@ -35,3 +35,34 @@ Attribute Information:
 * Seasons - Winter, Spring, Summer, Autumn
 * Holiday - Holiday/No holiday
 * Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+![github](https://github.com/anasmalik081/Bike-Sharing-Demand-Prediction-Capstone-Project/assets/84465546/4fe4936d-6f41-406c-ad75-424df80d440b)
+
+### Project Flowchart:
+
+1. Initial preparations(Loading the dependencies and the data)
+2. Data Inspection
+3. Data Wrangling
+     * Handling null values
+     * Handling duplicate values
+     * Removing Outliers
+4. Exploratory Data Analysis (EDA)
+5. Feature Engineering
+     * Feature encoding
+     * Checking correlation for feature removal
+     * Removing Multicollinearity
+     * Obtaining correlation between dependent and independent variables
+6. Pre processing of the data
+     * Target feature conditioning
+     * Creating train and test dataset
+     * Feature Scaling
+7. Model implementation
+     * Linear Regression
+     * Lasso Regression(L1 Regularization)
+     * Ridge Regression(L2 Regularization)
+     * ElasticNet Regression (L1 + L2 Regularization)
+     * Random Forest Regression
+8. Cross Validation and Hyperparameter Tuning
+
+
+  
